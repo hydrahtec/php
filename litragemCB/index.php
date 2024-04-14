@@ -34,7 +34,7 @@
                     <label for="distancia">Distância em Quilômetros a ser percorrida</label>
                     <input type="number" class="campo_texto" name="distancia" required>
 
-                    <label for="autonomia">Distância em Quilômetros a ser percorrida</label>
+                    <label for="autonomia">Consumo de combustível do veículo (Km/l)</label>
                     <input type="number" class="campo_texto" name="autonomia" required>
 
                     <button class="botao" type="submit">Calcular</button>
