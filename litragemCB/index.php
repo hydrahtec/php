@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial scale=1.0">
     <meta name="description" content="pagina de calculo de consumo de combustivel">
-    <link rel="stylesheet" href="" type="text/css">
+    <link rel="stylesheet" href="style.css">
     
     <title>Calculo de consumo de combustível</title>
 </head>
